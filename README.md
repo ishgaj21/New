@@ -17,10 +17,9 @@ gantt
     Statistical Testing             :st1, after sa1, 5d
 
     section Database Development
-    Design Database Schema          :dbd1, after st1, 7d
-    Develop Database Functions      :dbf1, after dbd1, 7d
-    Database Accessibility Features :dba1, after dbf1, 4d
-    Database Testing and Refinement :dbr1, after dba1, 3d
+    Design and Develop Database       :dbd1, after st1, 14d
+    Database testing and Refinement    : dbr1, after dbd1, 7d
+    
 
     section Thesis Writing
     Drafting of the Thesis          :thw1, 2024-07-01, 9d
