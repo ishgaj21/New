@@ -6,7 +6,7 @@ gantt
     axisFormat  %d-%m-%Y
 
     section Data Organization
-    Organize for Analysis           :org1, 2024-04-25, 9d
+    Organize for Analysis           :org1, 2024-04-28, 9d
 
     section Bioinformatic Analysis
     Quality Control Checks          :qc1, after org1, 7d
