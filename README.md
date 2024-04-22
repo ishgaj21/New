@@ -4,7 +4,7 @@ gantt
     title A Gantt Chart for Lipedema Genetic Research Project
     dateFormat  YYYY-MM-DD
     axisFormat  %d-%m-%Y
-    tickInterval 7day
+    
 
     section Data Organization
     Organize for Analysis           :org1, 2024-04-25, 9d
